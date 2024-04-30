@@ -1,0 +1,78 @@
+[
+    {
+        "id" : 1,
+        "name":"Laptop",
+         "aa":"aa",
+        "category": "Computer",
+        "brand":"Example0",
+        "price": 999.99,
+        "stock": 50,
+        "description": "so much powerfull 8gb ram intel i15 20 gen",
+        "image":"./public/lapy.jpeg"
+    },
+    {
+        "id" : 2,
+        "name":"Phone",
+        "category": "Phone",
+        "brand":"Example0",
+        "price": "896",
+        "stock": 20,
+        "description": "so much powerfull 8gb ram intel i15 20 gen",
+        "image":""
+    },
+    {
+        "id" : 1,
+        "name":"Laptop",
+         "aa":"aa",
+        "category": "Computer",
+        "brand":"Example0",
+        "price": 999.99,
+        "stock": 50,
+        "description": "so much powerfull 8gb ram intel i15 20 gen",
+        "image":"./public/lapy.jpeg"
+    },
+    {
+        "id" : 1,
+        "name":"Laptop",
+         "aa":"aa",
+        "category": "Computer",
+        "brand":"Example0",
+        "price": 999.99,
+        "stock": 50,
+        "description": "so much powerfull 8gb ram intel i15 20 gen",
+        "image":"./public/lapy.jpeg"
+    },
+    {
+        "id" : 1,
+        "name":"Laptop",
+         "aa":"aa",
+        "category": "Computer",
+        "brand":"Example0",
+        "price": 999.99,
+        "stock": 50,
+        "description": "so much powerfull 8gb ram intel i15 20 gen",
+        "image":"./public/lapy.jpeg"
+    },
+    {
+        "id" : 1,
+        "name":"Laptop",
+         "aa":"aa",
+        "category": "Computer",
+        "brand":"Example0",
+        "price": 999.99,
+        "stock": 50,
+        "description": "so much powerfull 8gb ram intel i15 20 gen",
+        "image":"./public/lapy.jpeg"
+    },
+    {
+        "id" : 1,
+        "name":"Laptop",
+         "aa":"aa",
+        "category": "Computer",
+        "brand":"Example0",
+        "price": 999.99,
+        "stock": 50,
+        "description": "so much powerfull 8gb ram intel i15 20 gen",
+        "image":"./public/lapy.jpeg"
+    }
+]
