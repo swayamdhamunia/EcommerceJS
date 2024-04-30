@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css">
+    <title>ecom</title>
+  </head>
+  <body>
+    <section id="header">
+      <a href="index.html"><img src="public\Untitled.jpg" class="logo" alt="logo"></a>
+      <div>
+        <ul id="nav">
+          <li><a href="index.html">Home</a></li>
+    <li><a href="">Shope</a></li>
+    <li><a href="">About</a>
+    <li><a href="">Contact</a></li></li>
+
+        </ul>
+      </div>
+    </section>
+     <div class="first">
+       <div class="small">
+         <h1>Entrance of future </h1>
+         <h2> with the new TECHNOLOGY</h2>
+         <p>Welcome to our store</p>
+         <button class="Explore">Explore more</button>
+       </div>
+       <div class="big">
+         <img src="public\Lapy.jpg" alt="Lapy" class="lapy" width="50%">
+      </div>
+       
+     </div>
+     <div class="second">
+      <div class="small1">
+        <h6>NEWYEAR SALE</h6>
+        <div class="one">
+          <h3>Get An Extra 50% OFF <br><button class="buy_now">BUY NOW</button></h3>
+        </div>
+        <div class="two"></div>
+        <img src="public\phone.jpeg" alt="" class="img">
+      </div>
+      <div class="small2">
+        <h6>NEWYEAR SALE</h6>
+        <div class="one">
+          <h3>40% Disocunt On Speaker <br><button class="buy_now">BUY NOW</button></h3>
+          <br>
+        </div>
+        
+        <div class="two"></div>
+        <img src="public\speaker.jpg" class="img" alt="">
+
+      </div>
+      <div class="small3">
+        <h6>NEWYEAR SALE</h6>
+        <div class="one">
+          <h3>Get An Extra 50% OFF <br><button class="buy_now">BUY NOW</button></h3>
+        </div>
+        <div class="two">
+          <img src="public\airdopes.jpg" class="img" alt="">
+        </div>
+
+      </div>
+
+
+
+     </div>
+    
+     
+     <section class="section-products">
+       <div class="container">
+         <div class="section-common-heading">
+           CHECK OUR STORE
+         </div>
+       </div>
+       <section class="container"> 
+         <div id="productContainer">
+        </div>
+       </section>
+     </section>
+    <template id="productTemplate">
+      <div class="card" id="cardValue">
+        <article class="information [card]">
+          <span class="category"></span>
+          <div class="imageContainer">
+            <img class="productImage" src="" alt="" >
+          </div>
+          <h2 class="productName"></h2>
+          <p class="productDescription"></p>
+          <div class="productPriceElement">
+            <p class="productPrice"></p>
+            <p class="productActualPrice"></p>
+          </div>
+          <div class="productStockElement">
+            <p class="productProperty"></p>
+            <p class="productStock"></p>
+          </div>
+          <div class="productQuantityElement">
+            <p class="productProperty">Quantity</p>
+            <div class="stockElement">
+              <button class="cartIncreament">+</button>
+              <p class="productQuantity">1</p>
+              <button class="cartDecrement">-</button>
+            </div>
+          </div>
+          <button class="add-to-cart-button">ADD TO CART</button>
+        </article>
+      </div>
+
+    </template>
+
+
+    <script type="module" src="main.js"></script>
+  </body>
+</html>
